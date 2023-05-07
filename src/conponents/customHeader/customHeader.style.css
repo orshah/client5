@@ -1,0 +1,23 @@
+.italic {
+  font-style: italic;
+  color: blue;
+}
+.extraLarge {
+  font-size: 100px;
+}
+
+.bold {
+  font-style: bold;
+  color: blueviolet;
+}
+.large {
+  font-size: 50px;
+}
+
+.normal {
+  font-style: normal;
+  color: rgb(89, 203, 41);
+}
+.medium {
+  font-size: 32px;
+}
